@@ -10,6 +10,8 @@ public class LoginPage {
 		String pwd = "fjdshfr";
 		
 		System.out.println("Logged in....");
+		System.out.println("Logged Out....");
+		
 	}
 
 }
